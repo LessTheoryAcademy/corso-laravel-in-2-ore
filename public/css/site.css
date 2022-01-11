@@ -1,0 +1,87 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #000;
+}
+
+/* Visited link    */
+
+a:hover {
+  color: #000;
+}
+
+/* Mouse over link */
+
+a:active {
+  color: #000;
+}
+
+/* Selected link   */
+
+.btn-info {
+  color: #000;
+}
+
+.align-right {
+  text-align: right;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+header {
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+  height: 50px;
+  z-index: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  opacity: 0.7;
+  padding: 80px 203px 10px 200px;
+  font-size: 30px;
+}
+
+main {
+  margin: 150px 200px;
+}
+
+.grid-item {
+  position: relative;
+  width: 14.28%;
+  border: 5px solid #fff;
+  transition: transform 0.2s;
+}
+
+.grid-item:hover {
+  transform: scale(1.03);
+  z-index: 200;
+}
+
+.grid-item > i {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  cursor: pointer;
+}
+
+.grid-item img {
+  width: 100%;
+}
+
