@@ -7,7 +7,7 @@
 
 Questo è il corso che fa per te!
 
-Impareremo Laravel realizzando un progetto, passo a passo, e durante lo sviluppo introdurremo le tecnologie fondamentali per la conoscenza di Laravel.
+Impareremo Laravel realizzando un progetto, passo dopo passo, e durante lo sviluppo introdurremo le tecnologie fondamentali per la conoscenza di Laravel.
 
 ## In questo repository trovi i file html, css e javascript relativi al progetto interamente sviluppato.
 
