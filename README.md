@@ -14,7 +14,7 @@ Impareremo Laravel realizzando un progetto, passo dopo passo, e durante lo svilu
 Corso Laravel in 2 ore : il corso per imparare Laravel in pochissimo tempo, con meno teoria e più pratica! 
 
 ## Vuoi seguire tutto il corso? Eccoti il link alla playlist con tutti i video! :) 
-https://www.youtube.com/watch?v=WfSubFa3lD8&list=PLl8lST6xZTJa8Ng3iMYOp-ngSa0Xm7Fe3
+https://www.youtube.com/watch?v=STv2Tv2ZcE8&list=PLl8lST6xZTJa8Ng3iMYOp-ngSa0Xm7Fe3
 
 Buono studio! :)
 
